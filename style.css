@@ -4,4 +4,5 @@ body {
 .container{
     display: flex;
     align-items: center;
+    background-image: url("Low-Tier-God.jpg");
 }
